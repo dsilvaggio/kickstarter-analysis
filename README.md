@@ -14,4 +14,4 @@
 ![This is an image](resources/Outcomes_vs_Goals.png)
 ## Results
   By looking at the line graph of the outcomes based on launch date, I was able to tell that theater campaigns had a higher amount of successful campaigns overall than the failed ones. I could also see that the highset count of successful theater campaigns were ones created in May and then June respectively. This might be the best months to begin a campaign. I can also see that the success rate for theater campaigns decreases in the later half of the year, with the worst month to start a theater campaign being December since this is when the count of successful campaigns is almost equal to the count of failed ones.
-    
+    The top 3 goal ranges for successful play campaigns was less than $1,000, between $1,000-$4,999, and $35000 - $44,999. In order to ensure that you are more likely to be successful, I would list play campaign goals under $5,000 or between $35,000 - $44,999. The highest goal range for failed campaigns was greater than $45,000. I would not list a play campaign over $45,000 if you want to ensure that you will be successful in meeting your goal.  
